@@ -17,3 +17,8 @@ I build full-stack apps with a bit of machine learning inside. Based in Maharash
 ## LeetCode
 
 I practise DSA in Java. My solutions are in [AeroSalu/leetcode](https://github.com/AeroSalu/leetcode).
+
+## Contact
+
+- 📧 [aero.salu@gmail.com](mailto:aero.salu@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-salunkhe-1a8970242/)
