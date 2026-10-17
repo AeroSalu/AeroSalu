@@ -6,6 +6,7 @@ I build full-stack apps with a bit of machine learning inside. Based in Maharash
 
 - 🛡️ **[PayShield](https://github.com/AeroSalu/PayShield)**: real-time fraud scoring for digital payments.
 - 📉 **[Financial Crisis Early Warning](https://github.com/AeroSalu/Financial-Crisis-Early-Warning-Macro-Risk-Analytics-Platform)**: forecasts market-crash risk and lets you stress-test it.
+- 🔗 **[ProofChain](https://github.com/AeroSalu/ProofChain-Verifiable-Records-Tamper-Detection)**: tamper-evident document records using Merkle trees and a signed ledger.
 - 🔥 **[RoastIt](https://github.com/AeroSalu/AI-Powered-Github-Analysis-Platform)**: AI feedback on GitHub profiles, using a local LLM.
 - ♠️ **[PokerSplit](https://github.com/AeroSalu/PokerSplit)**: settles home poker nights in the fewest payments. [Try it live](https://pokersplit-rose.vercel.app).
 
